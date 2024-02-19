@@ -21,4 +21,4 @@ Nesse artigo, foi realizado um estudo sobre a aplicação das técnicas de Machi
 
 #### Ambientes testados:
 - Python: 3.11.8
-- Visual Studio Code via extensão Jupyter
+- Visual Studio Code via extensão Jupyter e Jupyter Notebook via Anaconda
